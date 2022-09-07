@@ -1,4 +1,21 @@
 # commandos![image](https://user-images.githubusercontent.com/102428627/188999250-f6c0d1f4-4869-4920-ad49-847c442eb02f.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 IPSEC VPN TESTEN = tracert van computer 1 naar computer 2 ((((show crypto isakmp sa / show crypto ipsec sa /show crypto map)
 GRE VPN TUNNEL TESTEN = show ip interface tunnel (nummer)
  
